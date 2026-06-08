@@ -1,5 +1,8 @@
+# macOS
+.DS_Store
+svg/.DS_Store
 
-svg/.DS_Store
-.DS_Store
-.DS_Store
-svg/.DS_Store
+# Python
+__pycache__/
+*.pyc
+*.pyo
